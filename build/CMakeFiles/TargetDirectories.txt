@@ -1,0 +1,3 @@
+/home/nagaharish/Downloads/cpp/pointnet-cpp/build/CMakeFiles/rebuild_cache.dir
+/home/nagaharish/Downloads/cpp/pointnet-cpp/build/CMakeFiles/pointnet.dir
+/home/nagaharish/Downloads/cpp/pointnet-cpp/build/CMakeFiles/edit_cache.dir
